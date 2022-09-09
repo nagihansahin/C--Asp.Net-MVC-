@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.BLL.dll.config
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.BLL.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.BLL.pdb
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.DAL.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.DAL.pdb
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\SipSis.DAL.dll.config
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\obj\Debug\SipSis.BLL.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\obj\Debug\SipSis.BLL.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\obj\Debug\SipSis.BLL.csproj.CopyComplete
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\obj\Debug\SipSis.BLL.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.BLL\obj\Debug\SipSis.BLL.pdb

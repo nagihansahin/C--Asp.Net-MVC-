@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\SipSis.DAL.dll.config
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\SipSis.DAL.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\SipSis.DAL.pdb
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\obj\Debug\SipSis.DAL.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\obj\Debug\SipSis.DAL.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\obj\Debug\SipSis.DAL.csproj.CopyComplete
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\obj\Debug\SipSis.DAL.dll
+C:\Users\CASPER\Desktop\SipSis\SipSis\SipSis.DAL\obj\Debug\SipSis.DAL.pdb

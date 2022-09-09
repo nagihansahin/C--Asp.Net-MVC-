@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f7d5bb02dadc4afcb64485a59ccba899" Name="Diagram1" ZoomLevel="63">
+        <EntityTypeShape EntityType="SiparisDBModel.Cargo" Width="1.5" PointX="2.5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Category" Width="1.5" PointX="2.375" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Customer" Width="1.5" PointX="2.625" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Invoice" Width="1.5" PointX="0.625" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.InvoiceDetail" Width="1.5" PointX="7.875" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Market" Width="1.5" PointX="4.375" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Order" Width="1.5" PointX="6.125" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.OrderStatus" Width="1.5" PointX="4.25" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Product" Width="1.5" PointX="7.875" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.Supplier" Width="1.5" PointX="0.5" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.User" Width="1.5" PointX="0.5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.WarrantyOrder" Width="1.5" PointX="6" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SiparisDBModel.WendDate" Width="1.5" PointX="4.25" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="SiparisDBModel.FK_Cargo_User" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Customer_Market" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Customer_User" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Order_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_WarrantyOrder_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Invoice_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_InvoiceDetail_Invoice" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_InvoiceDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_InvoiceDetail_WendDate" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Market_User" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Order_Market" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Product_Market" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_WarrantyOrder_Market" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Order_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Order_User" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_OrderStatus_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_Product_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_WarrantyOrder_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_WarrantyOrder_User" ManuallyRouted="false" />
+        <AssociationConnector Association="SiparisDBModel.FK_WarrantyOrder_WendDate" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
